@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.9.17+18",
-  "download_url": "https://github.com/Tagapagmasid/Bevear-budget-app-new-releases/releases/download/v2.9.17/app-release.apk",
-  "notes": "Version bump with full bundle changes"
+  "latest_version": "2.9.17+19",
+  "download_url": "https://github.com/Tagapagmasid/Bevear-budget-app-new-releases/releases/download/v2.9.17%2B19/app-release.apk",
+  "notes": "Version bump with full bundle changes and in-app auto-updater"
 }
